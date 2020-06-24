@@ -1,0 +1,24 @@
+C:\Users\redda\AppData\Local\Temporary Projects\EWriter10\bin\Debug\EWriter10.exe
+C:\Users\redda\AppData\Local\Temporary Projects\EWriter10\bin\Debug\EWriter10.pdb
+C:\Users\redda\AppData\Local\Temporary Projects\EWriter10\bin\Debug\EWriter10.xml
+C:\Users\redda\AppData\Local\Temporary Projects\EWriter10\obj\x86\Debug\EWriter10.Form1.resources
+C:\Users\redda\AppData\Local\Temporary Projects\EWriter10\obj\x86\Debug\EWriter10.Resources.resources
+C:\Users\redda\AppData\Local\Temporary Projects\EWriter10\obj\x86\Debug\EWriter10.vbproj.GenerateResource.Cache
+C:\Users\redda\AppData\Local\Temporary Projects\EWriter10\obj\x86\Debug\EWriter10.exe
+C:\Users\redda\AppData\Local\Temporary Projects\EWriter10\obj\x86\Debug\EWriter10.xml
+C:\Users\redda\AppData\Local\Temporary Projects\EWriter10\obj\x86\Debug\EWriter10.pdb
+C:\Users\redda\AppData\Local\Temporary Projects\EWriter10\obj\x86\Debug\EWriter10.Build.resources
+C:\Users\redda\AppData\Local\Temporary Projects\EWriter10\obj\x86\Debug\EWriter10.DevModeDialog.resources
+C:\Users\redda\AppData\Local\Temporary Projects\EWriter10\obj\x86\Debug\EWriter10.Start.resources
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Debug\EWriter10.exe
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Debug\EWriter10.xml
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Debug\EWriter10.pdb
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\bin\Debug\EWriter10.exe
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\bin\Debug\EWriter10.pdb
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\bin\Debug\EWriter10.xml
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Debug\EWriter10.Build.resources
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Debug\EWriter10.DevModeDialog.resources
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Debug\EWriter10.Form1.resources
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Debug\EWriter10.Resources.resources
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Debug\EWriter10.Start.resources
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Debug\EWriter10.vbproj.GenerateResource.Cache

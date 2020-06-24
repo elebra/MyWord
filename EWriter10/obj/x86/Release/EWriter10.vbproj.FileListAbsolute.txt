@@ -1,0 +1,12 @@
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Release\EWriter10.vbproj.GenerateResource.Cache
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\bin\Release\MyWordX.exe
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\bin\Release\MyWordX.pdb
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\bin\Release\MyWordX.xml
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Release\MyWordX.Build.resources
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Release\MyWordX.DevModeDialog.resources
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Release\MyWordX.Form1.resources
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Release\MyWordX.Resources.resources
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Release\MyWordX.Start.resources
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Release\MyWordX.exe
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Release\MyWordX.xml
+C:\Users\redda\documents\visual studio 2010\Projects\EWriter10\EWriter10\obj\x86\Release\MyWordX.pdb
